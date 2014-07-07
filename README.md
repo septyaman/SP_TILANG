@@ -37,12 +37,17 @@ TRIK JAVASCRIPT - Menyembunyikan kode sumber halaman, klik kanan-tindakan untuk 
 
 Sp Tilang membantu Anda sepenuhnya. Menyembunyikan kode sumber benar-benar 100% aman tanpa diketahui oleh tamu pada website Anda. 
 
-Feautures 
+Features 
 ========= 
 Tolak aksi seluruh termasuk Klik Kanan Inspect Element 
 Hotkeys mengalihkan sebagai CTRL + N, CTRL + S dalam arti menghindari pengguna melihat kode sumber tanpa klik kanan, itu juga melarang mereka minggu untuk menyimpan ke dalam komputer mereka.
-dan masih banyak lainnya, silahkan kreasikan pada versi berikut.
+### BLOCK features ###
 
+- CTRL + S
+- RIGHT CLICK
+- CTRL + u
+- Ctrl+Shift+I
+- dan masih banyak lainnya, silahkan kreasikan pada versi berikut.
 
 Bagaimana Menggunakan
 =====================
@@ -50,3 +55,8 @@ Hanya satu langkah untuk membuat Sp tilang bekerja di website anda. Salin kode d
 
 ```<script type="text/javascript"> var SPklikkanan = 'TILANG';</script> <script type="text/javascript" src="js/sp_tilang.js"></script>```
 
+LICENCED
+========
+This content is released under the GNU V2 License.
+
+Copright 2014. Harazaki Dev.
