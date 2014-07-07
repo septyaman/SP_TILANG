@@ -23,7 +23,7 @@ HOW TO USE
 
 Only one step to make Sp ticketed work on your website. Copy the code and place it on ```<head> ... </ head>``` or after ```<body> ... ``` or as you want. up to where you like. For example, the following 
 ```
-<script type="text/javascript"> var SPklikkanan = 'ticket'; </ script> <script type="text/javascript" src="js/sp_tilang.js"> </ script>
+<script type="text/javascript"> var SPklikkanan = 'TILANG'; </ script> <script type="text/javascript" src="js/sp_tilang.js"> </ script>
 
 ```
 
