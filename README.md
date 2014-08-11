@@ -1,4 +1,4 @@
-SP_TILANG
+SP_TILANG DISABLE VIEW SORCE
 =========
 
 TRIK JAVASCRIPT - Hiding the source code of the page, right-click actions to prevent and correct - really restrict users
