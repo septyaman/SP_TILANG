@@ -1,4 +1,4 @@
-SP_TILANG DISABLE VIEW SORCE
+SP_TILANG DISABLE VIEW SORCE [Anti Klik Kanan](http://blog.fispol.com/2014/07/cara-mencegah-klik-kanan-menyembunyikan-source-kode.html)
 =========
 
 TRIK JAVASCRIPT - Hiding the source code of the page, right-click actions to prevent and correct - really restrict users
